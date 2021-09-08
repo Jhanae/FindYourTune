@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Project Template: React/Rails API
 # FindYourTune
-music app using spotify api
+Music App using Spotify API
 ## Description
 
 This project is scaffolded so that you can build a React frontend and Rails
