@@ -2,6 +2,7 @@
 # Project Template: React/Rails API
 # FindYourTune
 Music App using Spotify API
+
 Live Site: https://findthebeat.herokuapp.com/ 
 ## Description
 
