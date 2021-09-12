@@ -2,6 +2,8 @@
 # Project Template: React/Rails API
 # FindYourTune
 Music App using Spotify API
+
+Live Site: https://findthebeat.herokuapp.com/ 
 ## Description
 
 This project is scaffolded so that you can build a React frontend and Rails
