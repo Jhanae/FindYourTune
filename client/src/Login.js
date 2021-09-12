@@ -9,7 +9,7 @@ function Login() {
                 <h1>Welcome Back!</h1>
             </div>
             <div className="col-sm">
-                <h1>HEFdk</h1>
+                <h1>H</h1>
             </div>
             </div>
         </div>
