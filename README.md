@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Project Template: React/Rails API
 # FindYourTune
 Music App using Spotify API
